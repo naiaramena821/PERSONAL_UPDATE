@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573013291 source:d:\ccomp1\claselibro\src\libro.cpp
+	"Libro.h"
+	<iostream>
+
+1573013291 d:\ccomp1\claselibro\include\libro.h
+
